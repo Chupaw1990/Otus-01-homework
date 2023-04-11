@@ -1,3 +1,0 @@
-/home/chupa/c++/build/CMakeFiles/hello_world.dir
-/home/chupa/c++/build/CMakeFiles/edit_cache.dir
-/home/chupa/c++/build/CMakeFiles/rebuild_cache.dir
